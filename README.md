@@ -1,7 +1,7 @@
 # TACOMAN THE GAME
 Arquivos do projeto Game Tacoman, backend, frontend, game
 
-# TÉCNOLOGIAS UTILIZADAS
+# TECNOLOGIAS UTILIZADAS
 ## Backend
 ### - NodeJS
 ### - Express
