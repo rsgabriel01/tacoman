@@ -1,0 +1,10 @@
+{
+	"name": "tacoman",
+	"short_name": "tacoman",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": []
+}
