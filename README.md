@@ -1,8 +1,8 @@
-# Tacoman the Game
+# TACOMAN THE GAME
 Arquivos do projeto Game Tacoman, backend, frontend, game
 
-# Técnologias usadas
-## Backend 
+# TÉCNOLOGIAS UTILIZADAS
+## Backend
 ### - NodeJS
 ### - Express
 ### - PostgreSQL
@@ -11,7 +11,7 @@ Arquivos do projeto Game Tacoman, backend, frontend, game
 ## Frontend do game
 ### - Desenvolvido com a ferramenta construct 3, exportado pra versão HTML5.
 
-# Intalações
+# INSTALAÇÕES
 ## Backend
 ### Rodar dentro da pasta backend os comandos:  
 #### - npm install - Irá instala as dependencias do backend
