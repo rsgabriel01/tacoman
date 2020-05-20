@@ -1,5 +1,5 @@
 # TACOMAN THE GAME
-Arquivos do projeto Game Tacoman, backend, frontend, game
+Arquivos do projeto Game Tacoman, backend, frontend, game.
 
 # TECNOLOGIAS UTILIZADAS
 ## Backend
