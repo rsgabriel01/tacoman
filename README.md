@@ -18,6 +18,6 @@ Arquivos do projeto Game Tacoman, backend, frontend, game.
 #### - npm start - Irá iniciar o projeto backend
 ##### altere os parametros de porta, url etc se quiser
 ## Frontend do Jogo
-#### - Copie os arquivo para uma servidor Web, apache ou outros. Pois as novas versoes do chrome impedem a inicialização direta do arquivos.
+#### - Copie os arquivo para uma servidor Web, Apache ou outros. Pois as novas versões do Chrome impedem a inicialização direta do arquivos.
 
 
